@@ -214,10 +214,9 @@
         "valueType": "string"
       }
     ]
-  },
-
+  }, 
   {
-  "id": "quote",
+  "id": "article",
   "fields": [
      {
        "component": "richtext",
